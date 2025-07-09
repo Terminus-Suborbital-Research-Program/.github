@@ -1,2 +1,1 @@
-# .github
-Terminus Suborbital Research Program
+# Terminus Suborbital Research Program
